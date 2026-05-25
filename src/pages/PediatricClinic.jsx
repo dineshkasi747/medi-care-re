@@ -1,0 +1,575 @@
+import React from 'react';
+
+export default function PediatricClinic() {
+  return (
+    			<div data-elementor-type="wp-page" data-elementor-id="6301" className="elementor elementor-6301">
+				<div className="elementor-element elementor-element-623a1bc e-flex e-con-boxed e-con e-parent" data-id="623a1bc" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div className="e-con-inner">
+		<div className="elementor-element elementor-element-89f35ff e-flex e-con-boxed e-con e-child" data-id="89f35ff" data-element_type="container" data-e-type="container">
+					<div className="e-con-inner">
+				<div className="elementor-element elementor-element-b68376b at-heading-animation at-animation-heading-style-3 elementor-widget elementor-widget-heading" data-id="b68376b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div className="elementor-widget-container">
+					<h1 className="elementor-heading-title elementor-size-default">Pediatric Clinic</h1>				</div>
+				</div>
+				<div className="elementor-element elementor-element-d95701c elementor-invisible elementor-widget elementor-widget-elementskit-breadcrumb" data-id="d95701c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-breadcrumb.default">
+				<div className="elementor-widget-container">
+					<div className="ekit-wid-con"><ol className="ekit-breadcrumb"><li className="ekit_breadcrumbs_start"><a href="https://demo.awaikenthemes.com/theme-medipro">Home</a></li> <li className="brd_sep"> » </li> <li><a href="https://demo.awaikenthemes.com/theme-medipro/services/" title="Services">Services</a></li> <li className="brd_sep"> » </li>  <li>Pediatric Clinic</li></ol></div>				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div className="elementor-element elementor-element-4249133 e-flex e-con-boxed e-con e-parent" data-id="4249133" data-element_type="container" data-e-type="container">
+					<div className="e-con-inner">
+		<div className="elementor-element elementor-element-24cfcd9 e-flex e-con-boxed e-con e-child" data-id="24cfcd9" data-element_type="container" data-e-type="container">
+					<div className="e-con-inner">
+		<div className="elementor-element elementor-element-363eda8 e-con-full e-flex e-con e-child" data-id="363eda8" data-element_type="container" data-e-type="container">
+		<div className="elementor-element elementor-element-6bf12b6 e-con-full e-flex e-con e-child" data-id="6bf12b6" data-element_type="container" data-e-type="container">
+				<div className="elementor-element elementor-element-7d1c5c2 services-single-video elementor-invisible elementor-widget elementor-widget-video" data-id="7d1c5c2" data-element_type="widget" data-e-type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Y-x0efG1seA&quot;,&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/demo.awaikenthemes.com\/theme-medipro\/wp-content\/uploads\/2024\/05\/cultuer-1.jpg&quot;,&quot;id&quot;:1311,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;lightbox&quot;:&quot;yes&quot;,&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="video.default">
+				<div className="elementor-widget-container">
+							<div className="elementor-wrapper elementor-open-lightbox">
+							<div className="elementor-custom-embed-image-overlay" data-elementor-open-lightbox="yes" data-elementor-lightbox="{&quot;type&quot;:&quot;video&quot;,&quot;videoType&quot;:&quot;youtube&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/embed\/Y-x0efG1seA?feature=oembed&start&end&wmode=opaque&loop=0&controls=1&mute=0&rel=0&cc_load_policy=0&quot;,&quot;autoplay&quot;:&quot;&quot;,&quot;modalOptions&quot;:{&quot;id&quot;:&quot;elementor-lightbox-7d1c5c2&quot;,&quot;entranceAnimation&quot;:&quot;&quot;,&quot;entranceAnimation_tablet&quot;:&quot;&quot;,&quot;entranceAnimation_mobile&quot;:&quot;&quot;,&quot;videoAspectRatio&quot;:&quot;32&quot;}}" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJ0eXBlIjoidmlkZW8iLCJ2aWRlb1R5cGUiOiJ5b3V0dWJlIiwidXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvZW1iZWRcL1kteDBlZkcxc2VBP2ZlYXR1cmU9b2VtYmVkJnN0YXJ0JmVuZCZ3bW9kZT1vcGFxdWUmbG9vcD0wJmNvbnRyb2xzPTEmbXV0ZT0wJnJlbD0wJmNjX2xvYWRfcG9saWN5PTAiLCJhdXRvcGxheSI6IiIsIm1vZGFsT3B0aW9ucyI6eyJpZCI6ImVsZW1lbnRvci1saWdodGJveC03ZDFjNWMyIiwiZW50cmFuY2VBbmltYXRpb24iOiIiLCJlbnRyYW5jZUFuaW1hdGlvbl90YWJsZXQiOiIiLCJlbnRyYW5jZUFuaW1hdGlvbl9tb2JpbGUiOiIiLCJ2aWRlb0FzcGVjdFJhdGlvIjoiMzIifX0%3D">
+											<img fetchpriority="high" decoding="async" width="1200" height="800" src="https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/2024/05/cultuer-1.jpg" className="attachment-full size-full wp-image-1311" alt="" />																<div className="elementor-custom-embed-play" role="button" aria-label="Play Video" tabIndex="0">
+							<i aria-hidden="true" className="fas fa-play"></i>						</div>
+									</div>
+					</div>
+						</div>
+				</div>
+				<div className="elementor-element elementor-element-3c43551 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="3c43551" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+				<div className="elementor-widget-container">
+									<p>At our Pathology Clinic, we are dedicated to providing accurate and timely diagnostic services to support your healthcare needs. Our team of highly skilled pathologists and laboratory technicians work diligently to deliver reliable results that aid in the early detection, diagnosis, and treatment of various medical conditions.We offer a wide range of laboratory tests, including blood tests, urine analysis, tissue biopsies, and cytology, to assist in diagnosing and monitoring various diseases.</p><p>We utilize cutting-edge digital technology for efficient slide scanning, storage, and remote consultations with experts worldwide. Our advanced molecular testing helps identify specific genetic markers, enabling personalized treatment options for patients.</p>								</div>
+				</div>
+				</div>
+		<div className="elementor-element elementor-element-a2f7bf0 e-flex e-con-boxed e-con e-child" data-id="a2f7bf0" data-element_type="container" data-e-type="container">
+					<div className="e-con-inner">
+				<div className="elementor-element elementor-element-c334cb6 at-heading-animation at-animation-heading-style-3 elementor-widget elementor-widget-heading" data-id="c334cb6" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div className="elementor-widget-container">
+					<h2 className="elementor-heading-title elementor-size-default">Health Care Plans.</h2>				</div>
+				</div>
+				<div className="elementor-element elementor-element-9b31aea service-single-list elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-invisible elementor-widget elementor-widget-icon-list" data-id="9b31aea" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="icon-list.default">
+				<div className="elementor-widget-container">
+							<ul className="elementor-icon-list-items">
+							<li className="elementor-icon-list-item">
+											<span className="elementor-icon-list-icon">
+							<i aria-hidden="true" className="fas fa-check-circle"></i>						</span>
+										<span className="elementor-icon-list-text">mental health solutions</span>
+									</li>
+								<li className="elementor-icon-list-item">
+											<span className="elementor-icon-list-icon">
+							<i aria-hidden="true" className="fas fa-check-circle"></i>						</span>
+										<span className="elementor-icon-list-text">World Class Treatment</span>
+									</li>
+								<li className="elementor-icon-list-item">
+											<span className="elementor-icon-list-icon">
+							<i aria-hidden="true" className="fas fa-check-circle"></i>						</span>
+										<span className="elementor-icon-list-text">Medical Advices & Check Ups</span>
+									</li>
+								<li className="elementor-icon-list-item">
+											<span className="elementor-icon-list-icon">
+							<i aria-hidden="true" className="fas fa-check-circle"></i>						</span>
+										<span className="elementor-icon-list-text">Emergency Help Available 24/7</span>
+									</li>
+								<li className="elementor-icon-list-item">
+											<span className="elementor-icon-list-icon">
+							<i aria-hidden="true" className="fas fa-check-circle"></i>						</span>
+										<span className="elementor-icon-list-text">Rapid Patient Improvement</span>
+									</li>
+								<li className="elementor-icon-list-item">
+											<span className="elementor-icon-list-icon">
+							<i aria-hidden="true" className="fas fa-check-circle"></i>						</span>
+										<span className="elementor-icon-list-text">Medical Research Professionals</span>
+									</li>
+								<li className="elementor-icon-list-item">
+											<span className="elementor-icon-list-icon">
+							<i aria-hidden="true" className="fas fa-check-circle"></i>						</span>
+										<span className="elementor-icon-list-text">Trusted Medical Treatment</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				<div className="elementor-element elementor-element-619fd79 elementor-invisible elementor-widget elementor-widget-button" data-id="619fd79" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
+				<div className="elementor-widget-container">
+									<div className="elementor-button-wrapper">
+					<a className="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span className="elementor-button-content-wrapper">
+						<span className="elementor-button-icon">
+				<i aria-hidden="true" className="fas fa-arrow-alt-circle-right"></i>			</span>
+									<span className="elementor-button-text">Get Started</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+		<div className="elementor-element elementor-element-6030429 e-flex e-con-boxed e-con e-child" data-id="6030429" data-element_type="container" data-e-type="container">
+					<div className="e-con-inner">
+				<div className="elementor-element elementor-element-01e0c59 at-heading-animation at-animation-heading-style-3 elementor-widget elementor-widget-heading" data-id="01e0c59" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div className="elementor-widget-container">
+					<h2 className="elementor-heading-title elementor-size-default">Key Benifits.</h2>				</div>
+				</div>
+				<div className="elementor-element elementor-element-88a7168 elementor-invisible elementor-widget elementor-widget-elementskit-accordion" data-id="88a7168" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-accordion.default">
+				<div className="elementor-widget-container">
+					<div className="ekit-wid-con">
+        <div className="elementskit-accordion accoedion-primary" id="accordion-6a132aa9164b0">
+
+            
+                <div className="elementskit-card active">
+                    <div className="elementskit-card-header" id="primaryHeading-0-88a7168">
+                        <a href="#collapse-0534e156a132aa9164b0" className="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-0534e156a132aa9164b0" aria-expanded="true" aria-controls="Collapse-0534e156a132aa9164b0">
+                                                            <div className="ekit_accordion_icon_left_group">
+                                    <div className="ekit_accordion_normal_icon">
+                                        
+                                        <i className="fas fa-plus"></i>                                    </div>
+
+                                    <div className="ekit_accordion_active_icon">
+                                        
+										<i className="fas fa-minus"></i>                                    </div>
+                                </div>
+
+                            
+                            <span className="ekit-accordion-title">How schedule appointment?</span>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-0534e156a132aa9164b0" className=" show collapse" aria-labelledby="primaryHeading-0-88a7168" data-parent="#accordion-6a132aa9164b0">
+
+                        <div className="elementskit-card-body ekit-accordion--content">
+                            <p>We provide a wide range of medical services, including consultations, diagnostics, treatments, and preventive care</p>                        </div>
+
+                    </div>
+
+                </div>
+
+                
+                <div className="elementskit-card ">
+                    <div className="elementskit-card-header" id="primaryHeading-1-88a7168">
+                        <a href="#collapse-3422e106a132aa9164b0" className="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-3422e106a132aa9164b0" aria-expanded="false" aria-controls="Collapse-3422e106a132aa9164b0">
+                                                            <div className="ekit_accordion_icon_left_group">
+                                    <div className="ekit_accordion_normal_icon">
+                                        
+                                        <i className="fas fa-plus"></i>                                    </div>
+
+                                    <div className="ekit_accordion_active_icon">
+                                        
+										<i className="fas fa-minus"></i>                                    </div>
+                                </div>
+
+                            
+                            <span className="ekit-accordion-title">What are your clinic hours?  </span>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-3422e106a132aa9164b0" className=" collapse" aria-labelledby="primaryHeading-1-88a7168" data-parent="#accordion-6a132aa9164b0">
+
+                        <div className="elementskit-card-body ekit-accordion--content">
+                            <p>You can schedule an appointment by calling our clinic or using our online appointment booking system on our website or app.</p>                        </div>
+
+                    </div>
+
+                </div>
+
+                
+                <div className="elementskit-card ">
+                    <div className="elementskit-card-header" id="primaryHeading-2-88a7168">
+                        <a href="#collapse-2cd49236a132aa9164b0" className="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-2cd49236a132aa9164b0" aria-expanded="false" aria-controls="Collapse-2cd49236a132aa9164b0">
+                                                            <div className="ekit_accordion_icon_left_group">
+                                    <div className="ekit_accordion_normal_icon">
+                                        
+                                        <i className="fas fa-plus"></i>                                    </div>
+
+                                    <div className="ekit_accordion_active_icon">
+                                        
+										<i className="fas fa-minus"></i>                                    </div>
+                                </div>
+
+                            
+                            <span className="ekit-accordion-title"> Accept payment methods? </span>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-2cd49236a132aa9164b0" className=" collapse" aria-labelledby="primaryHeading-2-88a7168" data-parent="#accordion-6a132aa9164b0">
+
+                        <div className="elementskit-card-body ekit-accordion--content">
+                            <p>Yes, we strive to accommodate urgent cases and provide same-day appointments whenever possible.</p>                        </div>
+
+                    </div>
+
+                </div>
+
+                
+                <div className="elementskit-card ">
+                    <div className="elementskit-card-header" id="primaryHeading-3-88a7168">
+                        <a href="#collapse-5db53e76a132aa9164b0" className="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-5db53e76a132aa9164b0" aria-expanded="false" aria-controls="Collapse-5db53e76a132aa9164b0">
+                                                            <div className="ekit_accordion_icon_left_group">
+                                    <div className="ekit_accordion_normal_icon">
+                                        
+                                        <i className="fas fa-plus"></i>                                    </div>
+
+                                    <div className="ekit_accordion_active_icon">
+                                        
+										<i className="fas fa-minus"></i>                                    </div>
+                                </div>
+
+                            
+                            <span className="ekit-accordion-title"> Do you offer consultations? </span>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-5db53e76a132aa9164b0" className=" collapse" aria-labelledby="primaryHeading-3-88a7168" data-parent="#accordion-6a132aa9164b0">
+
+                        <div className="elementskit-card-body ekit-accordion--content">
+                            <p>In case of a medical emergency, call emergency services or go to the nearest emergency room.</p>                        </div>
+
+                    </div>
+
+                </div>
+
+                
+                <div className="elementskit-card ">
+                    <div className="elementskit-card-header" id="primaryHeading-4-88a7168">
+                        <a href="#collapse-11f4ad86a132aa9164b0" className="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-11f4ad86a132aa9164b0" aria-expanded="false" aria-controls="Collapse-11f4ad86a132aa9164b0">
+                                                            <div className="ekit_accordion_icon_left_group">
+                                    <div className="ekit_accordion_normal_icon">
+                                        
+                                        <i className="fas fa-plus"></i>                                    </div>
+
+                                    <div className="ekit_accordion_active_icon">
+                                        
+										<i className="fas fa-minus"></i>                                    </div>
+                                </div>
+
+                            
+                            <span className="ekit-accordion-title">How do I access test results? </span>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-11f4ad86a132aa9164b0" className=" collapse" aria-labelledby="primaryHeading-4-88a7168" data-parent="#accordion-6a132aa9164b0">
+
+                        <div className="elementskit-card-body ekit-accordion--content">
+                            <p>Turnaround times vary depending on the tests. Our team will inform you when results are available.</p>                        </div>
+
+                    </div>
+
+                </div>
+
+                                        </div>
+    </div>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div className="elementor-element elementor-element-ca05e8b e-con-full e-flex e-con e-child" data-id="ca05e8b" data-element_type="container" data-e-type="container">
+		<div className="elementor-element elementor-element-b8e93e7 sticky-column e-flex e-con-boxed elementor-invisible e-con e-child" data-id="b8e93e7" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:100}">
+					<div className="e-con-inner">
+		<div className="elementor-element elementor-element-879378c e-flex e-con-boxed e-con e-child" data-id="879378c" data-element_type="container" data-e-type="container">
+					<div className="e-con-inner">
+				<div className="elementor-element elementor-element-897f329 elementor-widget elementor-widget-medipro-elementor-template" data-id="897f329" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="medipro-elementor-template.default">
+				<div className="elementor-widget-container">
+							<div className="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="6054" className="elementor elementor-6054">
+				<div className="elementor-element elementor-element-cdbc319 sticky-column e-flex e-con-boxed e-con e-child" data-id="cdbc319" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div className="e-con-inner">
+				<div className="elementor-element elementor-element-ca92491 elementor-widget elementor-widget-heading" data-id="ca92491" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div className="elementor-widget-container">
+					<h2 className="elementor-heading-title elementor-size-default">Medical Service</h2>				</div>
+				</div>
+				<div className="elementor-element elementor-element-d6ba87a ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="d6ba87a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div className="elementor-widget-container">
+					<div className="ekit-wid-con">        
+                <a href="https://demo.awaikenthemes.com/theme-medipro/services/cardiology-clinic/" className="ekit_global_links">
+                
+
+        <div className="elementskit-infobox text- text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div className="elementskit-box-header elementor-animation-">
+                <div className="elementskit-info-box-icon  text-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 56 56" style={{"enableBackground":"new 0 0 512 512"}} xmlSpace="preserve" className=""><g><path d="M28.095 49.372c-.18 0-.36-.049-.52-.146-6.074-3.699-12.33-10.382-15.518-14.036a31.134 31.134 0 0 1-3.404-4.688 1.001 1.001 0 0 1 1.725-1.012 29.064 29.064 0 0 0 3.185 4.386c3.021 3.462 8.848 9.7 14.531 13.318 5.682-3.618 11.51-9.856 14.53-13.318 2.452-2.811 4.197-5.764 5.187-8.78 2.054-6.254.813-11-3.69-14.105-8.107-5.596-13.456.327-14.902 2.275-.526.71-1.721.71-2.248 0-1.445-1.949-6.792-7.872-14.903-2.275-3.854 2.659-5.318 6.558-4.35 11.587a1 1 0 0 1-1.964.378c-1.116-5.798.675-10.504 5.178-13.611 8.913-6.149 15.162-.261 17.163 2.122 2-2.381 8.249-8.271 17.162-2.122 5.245 3.618 6.785 9.281 4.455 16.375-1.073 3.272-2.95 6.458-5.579 9.471-3.188 3.655-9.444 10.338-15.518 14.036-.159.096-.34.145-.52.145z" fill="#ffffff" opacity="1" data-original="#000000"></path><path d="M22.322 35.917h-.017a1.001 1.001 0 0 1-.958-.774l-3.554-15.331-2.884 6.828c-.157.37-.52.611-.921.611h-7.75a1 1 0 0 1 0-2h7.087l3.825-9.056a.989.989 0 0 1 1.007-.607.998.998 0 0 1 .888.771l3.345 14.43 2.933-10.963a.98.98 0 0 1 .978-.742 1 1 0 0 1 .96.765l1.347 5.568h6.379a1 1 0 1 1 0 2H27.82a1 1 0 0 1-.972-.765l-.609-2.517-2.953 11.041a.996.996 0 0 1-.964.741z" fill="#ffffff" opacity="1" data-original="#000000"></path></g></svg>
+                </div>
+          </div>
+                        <div className="box-body">
+                            <h3 className="elementskit-info-box-title">
+                    Cardiology Clinic                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>				</div>
+				</div>
+				<div className="elementor-element elementor-element-e37511f ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="e37511f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div className="elementor-widget-container">
+					<div className="ekit-wid-con">        
+                <a href="https://demo.awaikenthemes.com/theme-medipro/services/pathology-clinic/" className="ekit_global_links">
+                
+
+        <div className="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div className="elementskit-box-header elementor-animation-">
+                <div className="elementskit-info-box-icon  text-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 59 61" style={{"enableBackground":"new 0 0 512 512"}} xmlSpace="preserve" className=""><g><path d="M41.68 12.05C41.53 12.1 38 13.32 38 17a1 1 0 0 0 2 0 3.44 3.44 0 0 1 2.32-3 1.002 1.002 0 0 0-.64-1.9z" fill="#ffffff" opacity="1" data-original="#000000" className=""></path><path d="M59 6.5a4.49 4.49 0 1 0-8.44 2.13l-1.76 1.5a9 9 0 0 0-11.17-.35l-1.36-1.21A5 5 0 1 0 34.92 10l1.24 1.11c-5.75 6.76.77 17 9.39 14.47l1.27 1.74a6.49 6.49 0 1 0 5-3.33l-1.41-1.94a9 9 0 0 0-.24-10.5l1.69-1.45A4.5 4.5 0 0 0 59 6.5zM54.5 4a2.5 2.5 0 1 1-1 4.77l1.18-1a1 1 0 1 0-1.3-1.52l-1.21 1A2.48 2.48 0 0 1 54.5 4zM29 6a3 3 0 1 1 5.74 1.21l-1.08-1a1 1 0 0 0-1.32 1.5l1 .91A3 3 0 0 1 29 6zm7 11a7 7 0 1 1 13.14 3.35 3 3 0 0 0-4.84 3.53A7 7 0 0 1 36 17zm21 13.5a4.5 4.5 0 1 1-4.5-4.5 4.51 4.51 0 0 1 4.5 4.5zm-8.9-4.77L46 22.81a1.01 1.01 0 0 1 1.63-1.19l2.17 3a6.32 6.32 0 0 0-1.7 1.11zM40 37h-2.35a3.49 3.49 0 1 0-6.3 0H29a3.008 3.008 0 0 0-.44 6 11 11 0 1 1-15-16c.147.009.293.009.44 0a5 5 0 0 0 3-1l1.23 1.22a2 2 0 0 0 .51 1.92l1.41 1.42a2 2 0 0 0 2.83 0l.71-.71L25.76 32a2 2 0 0 0 2.83 0l2.82-2.83a2 2 0 0 0 0-2.83l-2.12-2.12.71-.7a2 2 0 0 0 0-2.83l-1.41-1.42a2 2 0 0 0-1.93-.51L12.32 4.4a2 2 0 0 0-2.83 0L6.67 1.59a2 2 0 0 0-2.83 0L1 4.41a2 2 0 0 0 0 2.83l2.84 2.83a2 2 0 0 0 0 2.83L10 19.05a4.93 4.93 0 0 0-1 2.52A18 18 0 0 0 12.79 51H8a6 6 0 0 0-6 6v2H1a1 1 0 0 0 0 2h40a1 1 0 0 0 0-2h-1v-2a6 6 0 0 0-6-6h-4.79a17.93 17.93 0 0 0 7.9-8H40a3 3 0 0 0 0-6zm-7-1.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zM14 19a3 3 0 1 1 0 6 3 3 0 0 1 0-6zm16 8.75-2.83 2.83-2.12-2.12 2.83-2.83zm-1.41-5.66-7.08 7.07-1.41-1.41 7.07-7.07zM2.42 5.83 5.25 3l2.83 2.83-2.83 2.83zm8.49 0L25.05 20l-5.66 5.66-1.1-1.1a5 5 0 0 0-6.82-6.82l-6.22-6.25C14.52 2.23 9 7.71 10.91 5.83zM34 53a4 4 0 0 1 4 4v2H4v-2a4 4 0 0 1 4-4zm-13-2A16 16 0 0 1 9.41 24a5 5 0 0 0 2 2.27A13 13 0 1 0 31.2 43h3.64A16 16 0 0 1 21 51zm19-10H29a1 1 0 0 1 0-2h11a1 1 0 0 1 0 2z" fill="#ffffff" opacity="1" data-original="#000000" className=""></path></g></svg>
+                </div>
+          </div>
+                        <div className="box-body">
+                            <h3 className="elementskit-info-box-title">
+                    Pathology Clinic                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>				</div>
+				</div>
+				<div className="elementor-element elementor-element-ca27a3f ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="ca27a3f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div className="elementor-widget-container">
+					<div className="ekit-wid-con">        
+                <a href="https://demo.awaikenthemes.com/theme-medipro/services/laboratory-analysis/" className="ekit_global_links">
+                
+
+        <div className="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div className="elementskit-box-header elementor-animation-">
+                <div className="elementskit-info-box-icon  text-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 62 62" style={{"enableBackground":"new 0 0 512 512"}} xmlSpace="preserve" className=""><g><circle cx="23" cy="17" r="1" fill="#ffffff" opacity="1" data-original="#000000" className=""></circle><path d="M61.277 54.613 56 46.697V39c1.103 0 2-.897 2-2v-2c0-1.103-.897-2-2-2H46c-1.103 0-2 .897-2 2v2c0 1.103.897 2 2 2v7.697L42.465 52H32v-4h8c1.103 0 2-.897 2-2v-2c0-1.103-.897-2-2-2h-2v-2c0-1.103-.897-2-2-2H22c-1.103 0-2 .897-2 2v2h-2c-1.103 0-2 .897-2 2v2c0 1.103.897 2 2 2h8v4h-1.566C15.372 52 8 44.628 8 35.565c0-6.634 3.961-12.55 10.049-15.136A2.001 2.001 0 0 0 20 22h2v6c-1.103 0-2 .897-2 2v4c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-4c0-1.103-.897-2-2-2V10c0-1.103-.897-2-2-2V6c1.103 0 2-.897 2-2V2c0-1.103-.897-2-2-2H24c-1.103 0-2 .897-2 2v2c0 1.103.897 2 2 2v2c-1.103 0-2 .897-2 2v2h-2c-1.103 0-2 .897-2 2v.233C7.366 16.965 0 26.383 0 37.439c0 8.05 4.09 15.677 10.728 20.166l-.302.453A2.538 2.538 0 0 0 12.535 62H57.93a2.993 2.993 0 0 0 2.496-1.336l.852-1.277a4.298 4.298 0 0 0-.001-4.774zM36.001 34H22v-4h14zM24 2h10l.001 2H24zm2 4h6v2h-6zm-2 4h10v18H24v-6h2c1.103 0 2-.897 2-2v-6c0-1.103-.897-2-2-2h-2zm-4 4h6v6l-6 .001zm26 21h10l.001 2H46zm2 12.303V39h6v8.303l3.688 5.531c-.187.104-.367.208-.533.308-.799.48-1.429.858-2.819.858s-2.021-.378-2.819-.857C50.624 52.607 49.612 52 47.668 52c-1.615 0-2.584.419-3.378.868zM22 40h14v2H22zm-4 4h22l.001 2H18zm10 4h2v4h-2zM2 37.439c0-9.961 6.523-18.471 16-21.138v2.005A18.4 18.4 0 0 0 6 35.565C6 42.74 10.129 48.955 16.128 52h-.592c-.67 0-1.292.333-1.664.891l-2.035 3.052C5.75 51.821 2 44.824 2 37.439zm10 22.026c0-.106.031-.209.09-.297L15.535 54h25.596l-.409.613a4.298 4.298 0 0 0 .001 4.774l.409.613H12.535a.536.536 0 0 1-.535-.535zm47.613-1.188-.852 1.277a.993.993 0 0 1-.831.446H44.07a.998.998 0 0 1-.832-.445l-.852-1.277A2.309 2.309 0 0 1 42 57c0-.4.12-.781.315-1.127 1.124-.2 1.879-.623 2.533-1.016.799-.479 1.43-.857 2.82-.857s2.021.379 2.82.857c.893.537 1.905 1.143 3.848 1.143s2.955-.607 3.847-1.143c.214-.128.413-.247.617-.354l.813 1.219a2.302 2.302 0 0 1 0 2.555z" fill="#ffffff" opacity="1" data-original="#000000" className=""></path><path d="M54 28c0 1.654 1.346 3 3 3s3-1.346 3-3-1.346-3-3-3-3 1.346-3 3zm3-1c.551 0 1 .449 1 1s-.449 1-1 1-1-.449-1-1 .449-1 1-1zM45 26c1.654 0 3-1.346 3-3s-1.346-3-3-3-3 1.346-3 3 1.346 3 3 3zm0-4c.551 0 1 .449 1 1s-.449 1-1 1-1-.449-1-1 .449-1 1-1zM52 16c2.206 0 4-1.794 4-4s-1.794-4-4-4-4 1.794-4 4 1.794 4 4 4zm0-6c1.103 0 2 .897 2 2s-.897 2-2 2-2-.897-2-2 .897-2 2-2z" fill="#ffffff" opacity="1" data-original="#000000" className=""></path></g></svg>
+                </div>
+          </div>
+                        <div className="box-body">
+                            <h3 className="elementskit-info-box-title">
+                    Laboratory Analysis                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>				</div>
+				</div>
+				<div className="elementor-element elementor-element-07ad8a5 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="07ad8a5" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div className="elementor-widget-container">
+					<div className="ekit-wid-con">        
+                <a href="https://demo.awaikenthemes.com/theme-medipro/services/pediatric-clinic/" className="ekit_global_links">
+                
+
+        <div className="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div className="elementskit-box-header elementor-animation-">
+                <div className="elementskit-info-box-icon  text-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 32 32" style={{"enableBackground":"new 0 0 512 512"}} xmlSpace="preserve" className=""><g><path d="M23.5 31a.5.5 0 0 0 .5-.5v-3.795l3.371-2.642c.422-.336.987-.995 1.208-1.519l2.38-5.533a.498.498 0 0 0 .041-.198v-4.819c0-.622-.705-1.081-1.386-1.164-.844-.109-1.905.35-2.305 1.947-.206.829-.252 1.53-.293 2.148a.517.517 0 0 0 .465.552c.276.019.513-.17.53-.445.041-.618.084-1.271.269-2.014.126-.502.396-1.119.973-1.196.386-.055.709.152.762.246L30 16.71l-2.341 5.443c-.146.349-.6.88-.908 1.126l-3.56 2.79a.497.497 0 0 0-.191.393V30.5a.5.5 0 0 0 .5.5zM8.5 31a.5.5 0 0 1-.5-.5v-3.795l-3.371-2.642c-.422-.336-.987-.995-1.208-1.519l-2.38-5.533A.498.498 0 0 1 1 16.813v-4.819c0-.622.705-1.081 1.386-1.164.844-.109 1.905.35 2.305 1.947.206.829.252 1.53.293 2.148a.517.517 0 0 1-.465.552c-.276.019-.513-.17-.53-.445-.041-.618-.084-1.271-.269-2.014-.126-.502-.396-1.119-.973-1.196-.386-.055-.709.152-.762.246L2 16.71l2.341 5.443c.146.349.6.88.908 1.126l3.56 2.79a.497.497 0 0 1 .191.393V30.5a.5.5 0 0 1-.5.5zM14.5 31a.5.5 0 0 1-.5-.5v-5.463c0-2.107-1.455-3.944-3.539-4.468a.5.5 0 1 1 .244-.97c2.528.636 4.295 2.872 4.295 5.438V30.5a.5.5 0 0 1-.5.5z" fill="#ffffff" opacity="1" data-original="#000000"></path><path d="M8.762 22.417a.502.502 0 0 1-.354-.146l-4.387-4.38a.5.5 0 0 1 0-.708c1.375-1.375 3.07-1.259 4.649.32l2.255 2.25a.5.5 0 0 1-.707.708l-2.255-2.25c-1.025-1.025-1.984-1.242-2.851-.644l4.002 3.996a.502.502 0 0 1-.352.854zM17.5 31a.5.5 0 0 1-.5-.5v-5.463c0-2.566 1.767-4.802 4.295-5.438a.498.498 0 0 1 .607.363.502.502 0 0 1-.363.607C19.455 21.093 18 22.93 18 25.037V30.5a.5.5 0 0 1-.5.5z" fill="#ffffff" opacity="1" data-original="#000000"></path><path d="M23.238 22.417a.502.502 0 0 1-.354-.854l4.002-3.996c-.866-.597-1.826-.38-2.851.644l-2.255 2.25a.5.5 0 0 1-.707-.708l2.255-2.25c1.579-1.579 3.274-1.695 4.649-.32a.5.5 0 0 1 0 .708l-4.387 4.38a.494.494 0 0 1-.352.146z" fill="#ffffff" opacity="1" data-original="#000000"></path><path d="M23.238 22.417a.502.502 0 0 1-.354-.854l4.002-3.996c-.866-.597-1.826-.38-2.851.644l-2.255 2.25a.5.5 0 0 1-.707-.708l2.255-2.25c1.579-1.579 3.274-1.695 4.649-.32a.5.5 0 0 1 0 .708l-4.387 4.38a.494.494 0 0 1-.352.146zM18.199 12.449c-.271 0-.542-.022-.813-.067-1.294-.215-2.428-.922-3.193-1.992s-1.067-2.372-.853-3.666a1.663 1.663 0 0 1 3.28.546c-.06.36.008.733.188 1.048a.5.5 0 1 1-.868.498 2.6 2.6 0 0 1-.308-1.709.665.665 0 0 0-.545-.764.665.665 0 0 0-.763.545c-.171 1.03.07 2.067.68 2.92s1.514 1.417 2.544 1.588c.283.046.57.064.85.048a.5.5 0 0 1 .052.999 5.132 5.132 0 0 1-.251.006z" fill="#ffffff" opacity="1" data-original="#000000"></path><path d="M15.286 19.2c-.458 0-.945-.044-1.465-.14-1.352-.25-2.455-1.028-3.107-2.193-.449-.801-.825-2.054-.572-3.89a2.763 2.763 0 0 1-.541.183c-.693.167-1.687-.125-2.265-.663-.438-.409-.629-.94-.536-1.495.081-.479.317-.86.683-1.103.417-.276.918-.321 1.267-.3.698-1.844 2.171-2.747 3.847-2.319.739.189 1.34.646 1.737 1.321.723 1.227.659 2.895.358 4.046a.5.5 0 1 1-.966-.252c.237-.914.314-2.322-.253-3.286a1.786 1.786 0 0 0-1.124-.86c-1.271-.327-2.302.439-2.775 2.039a.501.501 0 0 1-.595.345c-.163-.037-.655-.091-.945.103-.084.057-.201.163-.247.434-.014.081-.056.329.231.597.39.363 1.062.491 1.349.422.354-.085.825-.199 1.332-1.46.057-.164.117-.331.183-.501a.5.5 0 0 1 .942.337c-.061.179-.121.345-.183.5-.757 2.195-.776 4.025-.054 5.315.504.9 1.362 1.503 2.417 1.698 4.44.818 6.116-2.646 7.115-4.718.339-.704.544-1.128.834-1.335a5.63 5.63 0 0 1 .504-.285c1.19-.625 3.978-2.09 4.293-4.835.265-2.291-1.39-4.465-3.686-4.846a4.13 4.13 0 0 0-3.095.718 4.127 4.127 0 0 0-1.681 2.697c-.026.214-.19.459-.401.501a1.58 1.58 0 0 0-.443 2.953.5.5 0 1 1-.475.881 2.59 2.59 0 0 1-1.334-2.703 2.602 2.602 0 0 1 1.707-2.017 5.107 5.107 0 0 1 2.044-3.125 5.117 5.117 0 0 1 3.841-.892c2.813.467 4.839 3.135 4.516 5.947-.377 3.271-3.606 4.967-4.822 5.606-.182.096-.318.164-.387.212-.097.09-.329.571-.516.957-.876 1.818-2.608 5.406-6.732 5.406z" fill="#ffffff" opacity="1" data-original="#000000"></path></g></svg>
+                </div>
+          </div>
+                        <div className="box-body">
+                            <h3 className="elementskit-info-box-title">
+                    Pediatric Clinic                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>				</div>
+				</div>
+				<div className="elementor-element elementor-element-831b1a5 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="831b1a5" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div className="elementor-widget-container">
+					<div className="ekit-wid-con">        
+                <a href="https://demo.awaikenthemes.com/theme-medipro/services/cardiac-clinic/" className="ekit_global_links">
+                
+
+        <div className="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div className="elementskit-box-header elementor-animation-">
+                <div className="elementskit-info-box-icon  text-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style={{"enableBackground":"new 0 0 512 512"}} xmlSpace="preserve" className=""><g><path d="M445.18 269.93h-37.912l.947-.947a102.787 102.787 0 1 0-145.367-145.36l-6.754 6.75-6.942-6.937a102.79 102.79 0 0 0-145.367 145.367l1.127 1.127H66.82a6 6 0 1 0 0 12h50.092l134.94 134.935a5.998 5.998 0 0 0 8.484 0L395.268 281.93h49.912a6 6 0 0 0 0-12zm-332.91-9.611A90.791 90.791 0 0 1 240.668 131.92l11.184 11.18a5.998 5.998 0 0 0 8.484 0l10.996-10.992a90.789 90.789 0 0 1 128.399 128.39l-9.432 9.432h-18.483l-39.05-100.867a6.002 6.002 0 0 0-11.192-.008l-50.683 130.898-10.13-26.195a5.962 5.962 0 0 0-5.597-3.828H121.881zm143.824 143.82L133.881 281.93h117.17l14.246 36.805a5.962 5.962 0 0 0 5.598 3.828 5.888 5.888 0 0 0 5.598-3.828l50.675-130.891 34.941 90.25a6.122 6.122 0 0 0 5.598 3.836h10.592z" fill="#ffffff" opacity="1" data-original="#000000"></path></g></svg>
+                </div>
+          </div>
+                        <div className="box-body">
+                            <h3 className="elementskit-info-box-title">
+                    Cardiac Clinic                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>				</div>
+				</div>
+				<div className="elementor-element elementor-element-37d86ab ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="37d86ab" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div className="elementor-widget-container">
+					<div className="ekit-wid-con">        
+                <a href="https://demo.awaikenthemes.com/theme-medipro/services/neurology-clinic/" className="ekit_global_links">
+                
+
+        <div className="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div className="elementskit-box-header elementor-animation-">
+                <div className="elementskit-info-box-icon  text-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 128 128" style={{"enableBackground":"new 0 0 512 512"}} xmlSpace="preserve" className=""><g><path d="M111.23 107.91c-.45-2.22-3.21-3.79-6.71-5.77-2.15-1.22-4.59-2.6-5.42-3.67-1.71-2.2-2.39-8-2.23-11.42.08-1.66 2.39-7.54 4.63-13.23 3.43-8.73 7.32-18.62 7.78-24.1 1-12.25-2.4-29-15.14-39.13C88.32 6 77.69.75 65.28.06c-9.85-.55-24 1.72-35.5 15.61-5.48 6.64-8.36 11.8-8.56 15.33 0 .2-.9 19.93.7 22.18.2.28.44.59.7.91A8.45 8.45 0 0 1 24 56.25c-.19.66-1.22 3.11-6.32 12.2l-.37.66a6.4 6.4 0 0 0 1.3 7.31A10.65 10.65 0 0 0 22 77.87c.58.19 1.44.47 2 .7a9.48 9.48 0 0 1-.7 2.92c-1.33 2.33 1.19 4.2 2.87 5.36a4.72 4.72 0 0 0-.75 1.57 3.51 3.51 0 0 0 .83 2.85 8.21 8.21 0 0 1 .86 1.61 26.4 26.4 0 0 1-.43 5.37l-.24 1.75c-.54 4.22 3.94 7.35 7.09 8.43 1.13.39 9.45.31 13.55-.69a100.31 100.31 0 0 1 6.29 18.5 2.07 2.07 0 0 0 .94 1.3c.47.28 2.17.41 4.59.41 7.12 0 20.49-1.14 27.36-3 4.71-1.29 11.12-4.73 15.56-7.51 10.05-6.31 9.62-8.44 9.41-9.53zm-62.84-.55a2.4 2.4 0 0 0 .73-.44 1.87 1.87 0 0 1-.74.43zm36.81 13.75c-8.55 2.34-23.82 3-28.25 2.89a113.74 113.74 0 0 0-3.74-12c-3-8-3.94-8.26-4.81-8.51a2.14 2.14 0 0 0-1.8.28 56.57 56.57 0 0 1-11.78.86c-2.24-.77-4.6-2.66-4.42-4.15l.23-1.75c.45-3.43.75-5.69.26-7.16a11.57 11.57 0 0 0-1.28-2.48l-.07-.1.24-.23a2.87 2.87 0 0 0 1.14-2.09 2.53 2.53 0 0 0-.81-1.88 11.13 11.13 0 0 0-1.48-1.13c-.38-.26-1-.72-1.48-1.09a12.71 12.71 0 0 0 .85-5.3c-.3-1.77-2.15-2.37-4.73-3.21-.72-.24-1.82-.59-2-.72a2.73 2.73 0 0 1-.37-2.3l.36-.65C27.51 59.14 28 57.33 28 56.34c0-1.86-1.26-3.45-2.28-4.72l-.43-.55c-.48-2.21-.38-14.92-.11-19.83.14-2.56 2.93-7.31 7.65-13C52-4.94 81.25 5.43 91.64 13.72c14.85 11.86 14 31.79 13.65 35.67-.41 4.9-4.35 14.92-7.52 23-3.06 7.78-4.79 12.29-4.9 14.5-.13 2.65.18 10.35 3.07 14.07 1.32 1.7 3.89 3.15 6.61 4.69a31.59 31.59 0 0 1 4.51 2.87c-2.2 2.65-14.33 10.53-21.86 12.59z" fill="#ffffff" opacity="1" data-original="#000000" className=""></path><path d="M97.28 58.92c6.12-2.88 4.17-15.64 3.93-17.09a20.77 20.77 0 0 0-4.89-10c-.32-.4-.62-.77-.87-1.13a10.09 10.09 0 0 1-.86-1.85 14.35 14.35 0 0 0-1-2.28 12 12 0 0 0-2.34-2.71c-.31-.29-.65-.61-1-1a8.06 8.06 0 0 1-.56-.64 2 2 0 0 0-.25-.31l-.43-.56a16 16 0 0 0-4.76-4.62C80.84 14.82 71.94 12 65.58 12H63.5c-5.31-.08-10.32-.17-21.38 4.86-12.66 5.78-12.61 15.31-12.56 16.44v1.18a2.6 2.6 0 0 1-.1.5c-.31 1.27-.55 2.79.14 6.2 1.14 5.65 5.26 7.26 9.15 8.1 1.21.26 2.3 1.76 3.67 3.67l.83 1.14A20.58 20.58 0 0 0 53 60.42a12.71 12.71 0 0 0 3 .35 33.87 33.87 0 0 0 5.5-.63h.26c.73.79 1.87 2.08 2.81 3.34a44.17 44.17 0 0 1 2.68 6c1.48 3.52 2.75 6.76 4 8.38a2 2 0 0 0 3.21-2.39 38.18 38.18 0 0 1-2.9-6.23 13.65 13.65 0 0 0 3.91.53 26.61 26.61 0 0 0 5.33-.63c6.08-1.25 10.15-3.3 11.28-9.15a14.11 14.11 0 0 0 5.2-1.07zM54 56.53a16.91 16.91 0 0 1-7.5-4.82l-.8-1.1c-.44-.61-.87-1.2-1.32-1.77a3.54 3.54 0 0 1 .18-3c1.37-2 5-4.95 7.67-4.95h1.22c3.19 0 6.21 0 9.17-1.37a12.42 12.42 0 0 1 8-1.19 4.4 4.4 0 0 1 1.77 1 4.5 4.5 0 0 0 2.94 1.27 4.92 4.92 0 0 0 3.83-2 2 2 0 0 0-1.36-3.15 17.49 17.49 0 0 0 2.72-3.32 2 2 0 1 0-3.48-2 24.65 24.65 0 0 1-4.42 4.65 7.69 7.69 0 0 0-.94-.32 11.45 11.45 0 0 0-2.24-.35 4.43 4.43 0 0 1 .19-.77 2 2 0 0 0-3-2.67 6.51 6.51 0 0 0-1.32 3.75 19.24 19.24 0 0 0-4.44 1.48c-2 .94-4.11 1-6.76 1-.29-4.48-1.2-9.29-3.71-10.4a2 2 0 0 0-1.75 3.59c.6.71 1.21 3.81 1.46 7.08a12.37 12.37 0 0 0-2.55 1C45.89 36.23 43 33.38 40.83 33a2 2 0 0 0-2.29 1.6 2 2 0 0 0 1.59 2.34c.67.14 2.4 1.64 4.07 3.46a16.47 16.47 0 0 0-3 3.19 6.39 6.39 0 0 0-.9 2 6 6 0 0 0-.73-.22c-3.44-.74-5.42-1.75-6.07-5-.57-2.83-.35-3.74-.17-4.47a5.76 5.76 0 0 0 .21-1.45V33.09c0-.05-.28-4.86 4.9-9.27a16.69 16.69 0 0 0 3.4 6.18 2 2 0 0 0 3-2.68c-.8-.9-2.66-3.53-2.7-6 .52-.28 1.08-.56 1.67-.83a48.53 48.53 0 0 1 12.59-4.17 3.89 3.89 0 0 0-.32 1.1 4.86 4.86 0 0 0 .09 1.5 4.36 4.36 0 0 1-.17 2.29 8.07 8.07 0 0 1-.51 1.48 6.55 6.55 0 0 0-.56 3.31 9.79 9.79 0 0 0 2.36 6.13 2 2 0 0 0 3-2.68A6 6 0 0 1 58.93 26c0-1.25 0-1.35.17-1.63a12 12 0 0 0 .73-2.11 8.25 8.25 0 0 0 .24-4v-.28c0-.07.09-.19.13-.3a6.62 6.62 0 0 0 .51-1.68h4.87a26.68 26.68 0 0 1 3.45.25 12.77 12.77 0 0 1-2.61 3.58c-2.23 2.23-2.7 3.81-2.79 4.25a2 2 0 0 0 1.53 2.42 2.07 2.07 0 0 0 .43 0 1.94 1.94 0 0 0 1.92-1.5 6.89 6.89 0 0 1 1.73-2.33 18.1 18.1 0 0 0 3.82-5.52l.06-.13a46.23 46.23 0 0 1 8 2.61H81a7.18 7.18 0 0 0-7.09 4.63 2 2 0 1 0 3.81 1.23A3.22 3.22 0 0 1 81 23.66a13.44 13.44 0 0 1 5.59 1.2c.24.29.48.57.73.83.43.43.81.79 1.15 1.1a8.26 8.26 0 0 1 1.67 1.89 12 12 0 0 1 .73 1.64A12.31 12.31 0 0 0 92.21 33c.29.4.62.82 1 1.27a16.8 16.8 0 0 1 4.07 8.17c1 6 .24 11.9-1.68 12.81-2.44 1.14-7.12.78-12.55.35-3.21-.25-6.85-.54-10.55-.54a61.19 61.19 0 0 0-10.27.94l-1.29.21c-2.88.46-4.94.79-6.94.32zm26 8.69c-6.16 1.27-9.17.43-11.51-3.21v-.05a8.26 8.26 0 0 0-.56-.9c-.41-.56-.86-1.11-1.29-1.63a54.57 54.57 0 0 1 5.91-.32c3.54 0 6.95.27 10.24.53 1.85.14 3.6.28 5.27.35-.87 2.92-2.98 4.18-8.06 5.23z" fill="#ffffff" opacity="1" data-original="#000000" className=""></path><path d="M64.7 48.66a2.28 2.28 0 0 1 .88-.67l.46.36a7 7 0 0 0 4.82 1.9 19.06 19.06 0 0 1 4.12.62 25.32 25.32 0 0 0 5.15.76 7.61 7.61 0 0 0 2.36-.34A5.21 5.21 0 0 0 86 47.15c.29-1 .44-1.46 1.14-1.86 2.88-1.62 3.34-5.12 3.62-7.2a5.86 5.86 0 0 0-2.37-5.19A2 2 0 1 0 86 36.12s.87.72.77 1.45c-.2 1.52-.47 3.6-1.61 4.24a6.28 6.28 0 0 0-3 4.26c-.32 1.13-.39 1.23-.95 1.42-1.19.39-3.44-.1-5.42-.53a21 21 0 0 0-5.14-.7c-.79.05-1.32-.36-2.12-1-.21-.17-.44-.35-.68-.52a3.94 3.94 0 0 1 .52-.47A2 2 0 0 0 66 41.08a6.16 6.16 0 0 0-2.4 3.45 7 7 0 0 0-1.67 1.29l-.3.29A8.21 8.21 0 0 0 53 47.25a4.75 4.75 0 0 1-.83-.84A2 2 0 1 0 49 48.78a6.35 6.35 0 0 0 3.68 2.57 3.19 3.19 0 0 0 2.41-.63c2.21-1.69 3.34-1.55 5.22-.85a3.92 3.92 0 0 0 4.39-1.21z" fill="#ffffff" opacity="1" data-original="#000000" className=""></path></g></svg>
+                </div>
+          </div>
+                        <div className="box-body">
+                            <h3 className="elementskit-info-box-title">
+                    Neurology Clinic                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>				</div>
+				</div>
+				<div className="elementor-element elementor-element-da75242 elementor-align-justify white-bg service-single-btn elementor-tablet-align-justify elementor-widget elementor-widget-button" data-id="da75242" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
+				<div className="elementor-widget-container">
+									<div className="elementor-button-wrapper">
+					<a className="elementor-button elementor-button-link elementor-size-sm" href="https://demo.awaikenthemes.com/theme-medipro/services/">
+						<span className="elementor-button-content-wrapper">
+						<span className="elementor-button-icon">
+				<i aria-hidden="true" className="fas fa-arrow-alt-circle-right"></i>			</span>
+									<span className="elementor-button-text">View All Service</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+						</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div className="elementor-element elementor-element-5def060 e-flex e-con-boxed e-con e-parent" data-id="5def060" data-element_type="container" data-e-type="container">
+					<div className="e-con-inner">
+		<div className="elementor-element elementor-element-4a4404d e-con-full e-flex e-con e-child" data-id="4a4404d" data-element_type="container" data-e-type="container">
+				<div className="elementor-element elementor-element-cae5ee3 at-heading-animation at-animation-heading-none elementor-invisible elementor-widget elementor-widget-heading" data-id="cae5ee3" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div className="elementor-widget-container">
+					<h3 className="elementor-heading-title elementor-size-default">Our Step</h3>				</div>
+				</div>
+				<div className="elementor-element elementor-element-656cb1c at-heading-animation at-animation-heading-style-3 elementor-widget elementor-widget-heading" data-id="656cb1c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div className="elementor-widget-container">
+					<h2 className="elementor-heading-title elementor-size-default">Our Working Best Working Processs.</h2>				</div>
+				</div>
+				</div>
+		<div className="elementor-element elementor-element-9d46d14 e-flex e-con-boxed e-con e-child" data-id="9d46d14" data-element_type="container" data-e-type="container">
+					<div className="e-con-inner">
+		<div className="elementor-element elementor-element-9a393d2 e-con-full e-flex elementor-invisible e-con e-child" data-id="9a393d2" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:100}">
+				<div className="elementor-element elementor-element-bf0f4c0 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="bf0f4c0" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div className="elementor-widget-container">
+					<div className="ekit-wid-con">        
+                
+
+        <div className="elementskit-infobox text-left text-left icon-top-align elementor-animation-   ">
+                    <div className="elementskit-box-header elementor-animation-">
+                <div className="elementskit-info-box-icon  ">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="43" height="42" viewBox="0 0 43 42" fill="none"><path d="M33.1126 11.6012V11.5475C31.5363 6.88112 27.9779 3.15041 23.3913 1.35539C18.8051 -0.440123 13.6593 -0.115869 9.33411 2.24063H9.2587C8.0478 2.91405 6.92719 3.73832 5.92332 4.69362H5.84791C2.35354 8.02126 0.475519 12.7021 0.700788 17.5224C0.925577 22.3429 3.23162 26.8283 7.02086 29.8163C7.26102 30.0045 7.40945 30.2865 7.42961 30.591C7.44931 30.8989 7.33595 31.2006 7.11788 31.4191C5.72495 32.7198 4.14757 33.8073 2.43765 34.6469C6.38108 35.9539 10.6545 35.8665 14.5419 34.3995C15.1812 34.1512 15.8061 33.8678 16.4138 33.5498C16.5829 33.4595 16.7711 33.4115 16.9628 33.4096H17.361H17.3605C21.7459 33.3904 25.9468 31.6453 29.0554 28.553C32.1641 25.4602 33.9307 21.2684 33.973 16.8836C33.9759 15.0877 33.6853 13.3032 33.1122 11.6009L33.1126 11.6012ZM25.3659 17.4218H18.3724V24.4154C18.3724 25.0095 17.8906 25.4913 17.2965 25.4913C16.7023 25.4913 16.2206 25.0095 16.2206 24.4154V17.4218H9.22701C8.63285 17.4218 8.15108 16.9401 8.15108 16.3459C8.15108 15.7518 8.63285 15.27 9.22701 15.27H16.2206V8.27644C16.2206 7.68228 16.7023 7.20051 17.2965 7.20051C17.8906 7.20051 18.3724 7.68228 18.3724 8.27644V15.27H25.3659C25.9601 15.27 26.4419 15.7518 26.4419 16.3459C26.4419 16.9401 25.9601 17.4218 25.3659 17.4218Z" fill="white"></path><path d="M38.1056 38.6931C37.9654 38.5428 37.8952 38.3406 37.9116 38.136C37.9279 37.9313 38.0297 37.7431 38.1916 37.6172C40.8142 35.5475 42.4103 32.4422 42.5674 29.1048C42.7239 25.7675 41.4261 22.5258 39.0091 20.2193C38.2895 19.5463 37.4869 18.9675 36.6204 18.4978H36.556L36.1256 18.1855C35.8384 22.2015 34.2736 26.0202 31.6601 29.0832C29.0466 32.1457 25.5215 34.2918 21.6006 35.2069C23.7529 38.2886 27.2776 40.1211 31.0365 40.1134H31.1225C31.3055 40.0889 31.4914 40.1148 31.6605 40.1883C34.6539 41.7354 38.1448 42.0106 41.3438 40.9525C40.1671 40.3996 39.0791 39.6743 38.1161 38.8006L38.1056 38.6931ZM31.4132 32.6569C31.003 32.6569 30.6706 32.3245 30.6706 31.9148C30.6706 31.5046 31.003 31.1722 31.4132 31.1722C31.8229 31.1722 32.1553 31.5046 32.1553 31.9148C32.1553 32.3245 31.8229 32.6569 31.4132 32.6569ZM34.3936 32.6574V32.6569C33.9815 32.6569 33.6462 32.3264 33.6404 31.9148C33.6404 31.5046 33.9728 31.1722 34.3826 31.1722C34.7927 31.1722 35.1251 31.5046 35.1251 31.9148C35.1251 32.3245 34.7928 32.6569 34.3826 32.6569L34.3936 32.6574ZM37.374 32.6574L37.3735 32.6569C36.9619 32.6569 36.6266 32.3264 36.6204 31.9148C36.6204 31.5046 36.9527 31.1722 37.3629 31.1722C37.7731 31.1722 38.1055 31.5046 38.1055 31.9148C38.1055 32.3245 37.7731 32.6569 37.3629 32.6569L37.374 32.6574Z" fill="white"></path></svg>
+                </div>
+          </div>
+                        <div className="box-body">
+                            <h3 className="elementskit-info-box-title">
+                    Free Consultation                </h3>
+                        		  	<p>Expert advice for your health concerns, no cost involved. Schedule now!</p>
+                                </div>
+        
+        
+                </div>
+        </div>				</div>
+				</div>
+				<div className="elementor-element elementor-element-073e0db elementor-absolute at-heading-animation at-animation-heading-none elementor-widget elementor-widget-heading" data-id="073e0db" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div className="elementor-widget-container">
+					<h2 className="elementor-heading-title elementor-size-default">01</h2>				</div>
+				</div>
+				</div>
+		<div className="elementor-element elementor-element-42b696e e-con-full e-flex elementor-invisible e-con e-child" data-id="42b696e" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
+				<div className="elementor-element elementor-element-3fe3162 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="3fe3162" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div className="elementor-widget-container">
+					<div className="ekit-wid-con">        
+                
+
+        <div className="elementskit-infobox text-left text-left icon-top-align elementor-animation-   ">
+                    <div className="elementskit-box-header elementor-animation-">
+                <div className="elementskit-info-box-icon  ">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="42" height="40" viewBox="0 0 42 40" fill="none"><path d="M0.281196 23.5516C0.591959 29.7669 2.53947 34.3875 5.58496 36.4794C8.63018 38.5718 14.7836 39.6904 20.9988 39.6904C23.9587 39.7029 26.9134 39.4393 29.8244 38.9031C32.1405 38.5295 34.3634 37.7135 36.3712 36.4999C39.4168 34.4282 41.3642 29.7044 41.6749 23.5721C41.9857 17.4399 40.5356 9.50517 36.5369 6.10719V6.10753C35.0022 4.93658 33.2372 4.10355 31.3577 3.66271V2.39888C31.3577 1.65874 30.9626 0.97478 30.3217 0.604705C29.6807 0.23463 28.891 0.23463 28.25 0.604705C27.6091 0.97478 27.214 1.65873 27.214 2.39888V2.81335C23.0895 2.2539 18.908 2.2539 14.7835 2.81335V2.39888C14.7835 1.65874 14.3884 0.97478 13.7475 0.604705C13.1065 0.23463 12.3168 0.23463 11.6758 0.604705C11.0349 0.97478 10.6398 1.65873 10.6398 2.39888V3.66271C8.76212 4.09729 6.99707 4.92308 5.46056 6.08676C1.46192 9.48438 0.0118077 17.2947 0.281284 23.5517L0.281196 23.5516ZM21.3927 30.8029C21.0036 31.1952 20.4743 31.4157 19.9218 31.4157C19.3693 31.4157 18.8397 31.1952 18.4509 30.8029L15.3433 27.6953C14.8178 27.1698 14.6125 26.4036 14.8047 25.6857C14.9972 24.9681 15.558 24.4073 16.2759 24.2148C16.9935 24.0226 17.7597 24.2276 18.2851 24.7534L19.9219 26.411L24.6663 21.6458C25.1917 21.12 25.9575 20.915 26.6755 21.1072C27.3934 21.2997 27.9542 21.8605 28.1464 22.578C28.3389 23.296 28.1335 24.0622 27.6081 24.5876L21.3927 30.8029ZM8.13375 9.23589C8.88743 8.6643 9.73614 8.22972 10.6403 7.95154V8.61434C10.6403 9.35448 11.0353 10.0384 11.6763 10.4085C12.3172 10.7786 13.107 10.7786 13.7479 10.4085C14.3889 10.0384 14.7839 9.35449 14.7839 8.61434V6.99846C16.8417 6.69428 18.9192 6.54203 20.9992 6.54272C23.0788 6.53682 25.156 6.68214 27.2145 6.97765V8.61439C27.2145 9.35454 27.6095 10.0385 28.2505 10.4086C28.8914 10.7786 29.6811 10.7786 30.3221 10.4086C30.9631 10.0385 31.3581 9.35454 31.3581 8.61439V7.9516C32.2623 8.22976 33.111 8.66434 33.8646 9.23594C35.1018 10.5036 35.981 12.0761 36.4132 13.794H5.5854C6.01756 12.0761 6.89683 10.5036 8.13393 9.23594L8.13375 9.23589Z" fill="white"></path></svg>
+                </div>
+          </div>
+                        <div className="box-body">
+                            <h3 className="elementskit-info-box-title">
+                    Schedule Date & Time                </h3>
+                        		  	<p>Book your appointment online and choose your preferred date and time for a convenient</p>
+                                </div>
+        
+        
+                </div>
+        </div>				</div>
+				</div>
+				<div className="elementor-element elementor-element-04af959 elementor-absolute at-heading-animation at-animation-heading-none elementor-widget elementor-widget-heading" data-id="04af959" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div className="elementor-widget-container">
+					<h2 className="elementor-heading-title elementor-size-default">02</h2>				</div>
+				</div>
+				</div>
+		<div className="elementor-element elementor-element-665a5bd e-con-full e-flex elementor-invisible e-con e-child" data-id="665a5bd" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
+				<div className="elementor-element elementor-element-8a82569 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="8a82569" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div className="elementor-widget-container">
+					<div className="ekit-wid-con">        
+                
+
+        <div className="elementskit-infobox text-left text-left icon-top-align elementor-animation-   ">
+                    <div className="elementskit-box-header elementor-animation-">
+                <div className="elementskit-info-box-icon  ">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="42" viewBox="0 0 30 42" fill="none"><path d="M26.2251 21.7876C24.2082 21.7876 22.5673 23.4283 22.5673 25.4453C22.5673 27.2449 23.8735 28.7449 25.5877 29.0472V34.173C25.5877 37.5482 22.8262 40.3641 19.451 40.3659C16.0643 40.3677 13.3083 37.6126 13.3083 34.2261V22.0506C13.3338 22.0366 13.3596 22.0223 13.3854 22.0084C14.1128 21.6103 15.7848 20.6952 17.5809 19.3632C17.6794 19.29 17.6997 19.1509 17.6259 19.0527L17.6052 19.0254C18.0874 18.6471 18.5872 18.2309 19.0767 17.7937C22.1489 15.0504 23.9704 12.2143 24.4908 9.36397C24.7998 7.67227 24.6473 6.09817 24.0375 4.68571C23.4879 3.41238 22.5761 2.32775 21.4015 1.54903C20.2372 0.77731 18.8891 0.347106 17.5034 0.304872C17.123 0.293326 16.7466 0.31186 16.3769 0.359256C16.2757 0.285731 16.1569 0.249572 16.0375 0.265377L14.6617 0.448889C14.3661 0.488386 14.1841 0.827456 14.2662 1.18567L14.3233 1.43571C14.4053 1.79392 14.7167 2.01966 15.0002 1.92669L16.3185 1.49314C16.4759 1.44149 16.5889 1.30203 16.6354 1.12703C18.1034 0.972685 19.6378 1.33636 20.9609 2.21353C23.2095 3.70378 24.2358 6.32369 23.7069 9.22127C23.2882 11.5133 21.7384 14.7825 17.1242 18.3883L17.1239 18.388C17.051 18.2914 16.9137 18.2714 16.8167 18.3434C15.0925 19.6213 13.4762 20.5057 12.7728 20.8906C12.7358 20.911 12.7017 20.9295 12.6701 20.9468C12.6386 20.9295 12.6045 20.911 12.5675 20.8906C11.8641 20.5057 10.2481 19.6213 8.52387 18.3434C8.42665 18.2714 8.28932 18.2914 8.21671 18.388L8.21154 18.3947C3.58431 14.7844 2.04086 11.5164 1.62186 9.22143C1.0929 6.32416 2.11891 3.70456 4.36661 2.21431C5.68979 1.33688 7.22468 0.972874 8.69339 1.12719C8.73987 1.30219 8.8532 1.44165 9.01027 1.49329L10.3286 1.92685C10.6117 2.02012 10.9234 1.79408 11.0055 1.43587L11.0626 1.18583C11.1446 0.827614 10.9626 0.488551 10.667 0.449047L9.29126 0.265535C9.17185 0.249432 9.05306 0.285891 8.95188 0.359414C8.58152 0.312017 8.20478 0.293181 7.82346 0.30503C6.43775 0.347869 5.08991 0.778386 3.92603 1.55012C2.75172 2.32884 1.84061 3.41347 1.29095 4.6868C0.681477 6.09927 0.528953 7.67313 0.837946 9.36451C1.3584 12.215 3.18011 15.0515 6.25207 17.7942C6.74701 18.236 7.24469 18.6485 7.73198 19.0305L7.73137 19.0314L7.71496 19.053C7.64113 19.1511 7.66149 19.2903 7.75993 19.3635C9.55616 20.6952 11.2281 21.6103 11.9554 22.0083C11.9812 22.0226 12.0074 22.0366 12.0329 22.0505L12.0335 34.2261C12.0335 36.2064 12.8046 38.0685 14.2052 39.4689C15.6056 40.8695 17.4674 41.6406 19.448 41.6406C21.4284 41.6406 23.2905 40.8695 24.6908 39.4689C26.0911 38.0685 26.8626 36.2067 26.8626 34.2261L26.8623 29.0474C28.5764 28.7451 29.8826 27.2448 29.8826 25.4455C29.8826 23.4284 28.2416 21.7878 26.2249 21.7878L26.2251 21.7876ZM26.2251 27.8282C24.911 27.8282 23.8421 26.7594 23.8421 25.4453C23.8421 24.1313 24.911 23.0624 26.2251 23.0624C27.5391 23.0624 28.608 24.1313 28.608 25.4453C28.608 26.7591 27.5391 27.8282 26.2251 27.8282Z" fill="white"></path><path d="M27.7102 25.4456C27.7102 26.2653 27.0457 26.93 26.2257 26.93C25.406 26.93 24.7412 26.2653 24.7412 25.4456C24.7412 24.6255 25.406 23.9611 26.2257 23.9611C27.0457 23.9611 27.7102 24.6255 27.7102 25.4456Z" fill="white"></path><path d="M5.39922 9.3225C6.23566 13.9033 12.3772 17.0849 12.6652 17.2995C12.9532 17.085 19.0947 13.9034 19.9312 9.3225C20.7952 4.58948 15.4595 2.27221 12.6652 5.07653C9.8709 2.27221 4.53494 4.5895 5.39922 9.3225ZM16.7418 5.4995C16.7776 5.50071 16.8311 5.50132 16.8976 5.51044C17.0313 5.52654 17.2209 5.56755 17.4372 5.65688C17.5442 5.70336 17.6596 5.75866 17.7742 5.83158C17.8887 5.90419 18.0063 5.98865 18.116 6.09104C18.2281 6.191 18.3329 6.30767 18.4274 6.43528C18.5231 6.56258 18.6048 6.70325 18.675 6.84878C18.7108 6.9214 18.737 6.99796 18.7677 7.07209C18.7938 7.14775 18.8163 7.22461 18.8369 7.30057C18.8758 7.45339 18.8986 7.60652 18.9102 7.75387C18.9129 7.8277 18.919 7.90001 18.918 7.97081C18.915 8.0416 18.9132 8.11027 18.9089 8.1768C18.9032 8.24334 18.894 8.30744 18.8855 8.36912C18.8807 8.39981 18.8761 8.43019 18.8716 8.45967C18.8652 8.48914 18.8597 8.518 18.8527 8.54595C18.8394 8.60216 18.8275 8.65564 18.8141 8.70607C18.7993 8.7562 18.7841 8.80329 18.7689 8.84735C18.7394 8.93546 18.7111 9.01081 18.6817 9.07127C18.6543 9.13203 18.6294 9.17852 18.6139 9.21042C18.5978 9.24202 18.5881 9.25873 18.5881 9.25873C18.5881 9.25873 18.5848 9.23928 18.5802 9.20404C18.5765 9.1688 18.5683 9.11654 18.5632 9.05183C18.5586 8.98711 18.5492 8.90903 18.5395 8.82061C18.5352 8.77686 18.5307 8.73007 18.5261 8.68115C18.52 8.63254 18.5134 8.58181 18.5067 8.52833C18.503 8.5019 18.5009 8.47517 18.4982 8.44782C18.4939 8.42078 18.4894 8.39313 18.4848 8.36487C18.4751 8.30897 18.4702 8.25125 18.459 8.19291C18.4468 8.13458 18.4374 8.07503 18.4262 8.01456C18.4128 7.95501 18.3994 7.89425 18.3857 7.83227C18.3715 7.77089 18.3526 7.71013 18.3374 7.64784C18.3305 7.61655 18.3186 7.58647 18.3086 7.55609C18.2992 7.5254 18.2897 7.49471 18.2803 7.46372C18.2597 7.40265 18.2338 7.3428 18.2132 7.28143C18.1864 7.22248 18.1643 7.16111 18.1345 7.10368C18.1065 7.04535 18.0801 6.98611 18.047 6.9308C18.0306 6.90316 18.0172 6.87369 18.0002 6.84634L17.9504 6.76401C17.9349 6.73606 17.9151 6.71084 17.8978 6.6841C17.8802 6.65767 17.8641 6.63033 17.8452 6.60511C17.8073 6.55468 17.7714 6.50333 17.7322 6.45533C17.656 6.35749 17.5752 6.26726 17.4949 6.1828C17.415 6.09772 17.333 6.02177 17.2561 5.95067C17.1003 5.81121 16.9581 5.6988 16.8545 5.62193C16.8025 5.58365 16.7615 5.55205 16.7323 5.5323C16.7032 5.51195 16.6874 5.50101 16.6874 5.50101C16.6865 5.50071 16.7056 5.49889 16.7418 5.4995Z" fill="white"></path></svg>
+                </div>
+          </div>
+                        <div className="box-body">
+                            <h3 className="elementskit-info-box-title">
+                    Arrivol To DentiCore                </h3>
+                        		  	<p>your premier destination for comprehensive dental care. Experience exceptional treatments.</p>
+                                </div>
+        
+        
+                </div>
+        </div>				</div>
+				</div>
+				<div className="elementor-element elementor-element-ca62004 elementor-absolute at-heading-animation at-animation-heading-none elementor-widget elementor-widget-heading" data-id="ca62004" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div className="elementor-widget-container">
+					<h2 className="elementor-heading-title elementor-size-default">03</h2>				</div>
+				</div>
+				</div>
+		<div className="elementor-element elementor-element-5e02e47 e-con-full e-flex elementor-invisible e-con e-child" data-id="5e02e47" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:400}">
+				<div className="elementor-element elementor-element-0e88b95 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="0e88b95" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div className="elementor-widget-container">
+					<div className="ekit-wid-con">        
+                
+
+        <div className="elementskit-infobox text-left text-left icon-top-align elementor-animation-   ">
+                    <div className="elementskit-box-header elementor-animation-">
+                <div className="elementskit-info-box-icon  ">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="47" height="42" viewBox="0 0 47 42" fill="none"><path d="M46.1139 24.805C45.8918 24.4289 45.5246 24.1611 45.0987 24.0643C44.6982 23.976 44.2792 24.0565 43.9401 24.2871L34.698 30.4424C34.7615 30.7838 34.7941 31.1303 34.7955 31.4776C34.7955 31.697 34.7083 31.9076 34.5532 32.0628C34.398 32.2179 34.1874 32.3051 33.968 32.3051H23.1567C22.6997 32.3051 22.3292 31.9346 22.3292 31.4776C22.3292 31.0205 22.6997 30.65 23.1567 30.65H33.0572C32.8651 29.716 32.3571 28.8767 31.6186 28.2737C30.8797 27.6708 29.9557 27.3409 29.0021 27.3398H22.7034C22.5102 27.3398 22.3233 27.2721 22.1747 27.1488C20.796 26.1442 19.1213 25.6289 17.4163 25.6847C14.2764 25.6847 11.6234 27.2009 11.6234 28.9949C11.6234 29.2144 11.5362 29.425 11.3811 29.5801C11.2259 29.7353 11.0153 29.8225 10.7958 29.8225H5.00293V38.9256H15.7612C15.8229 38.9256 15.8842 38.9323 15.9441 38.9463L26.6021 41.3621C27.2786 41.4996 27.9812 41.3263 28.5162 40.8904L45.5232 27.3042C45.5458 27.2861 45.5694 27.2691 45.5938 27.2536C45.9769 26.9894 46.2444 26.5882 46.3412 26.1326C46.438 25.6771 46.3563 25.202 46.1132 24.8048L46.1139 24.805Z" fill="white"></path><path d="M0.0380859 28.168H3.34832V41.4089H0.0380859V28.168Z" fill="white"></path><path d="M16.5892 9.96133C16.2508 9.9617 15.9463 9.75592 15.8204 9.44152L14.9341 7.22375L14.0478 9.44152C13.9218 9.75592 13.6174 9.9617 13.2789 9.96133H12.3018C12.6099 10.6278 13.024 11.2403 13.5272 11.7753L21.1027 19.7927C21.6558 20.365 22.4172 20.6883 23.213 20.6883C24.0088 20.6883 24.7702 20.365 25.3232 19.7927L32.8994 11.7747C33.4018 11.2401 33.8149 10.6275 34.1227 9.96143H33.1403C32.8636 9.96143 32.6053 9.82326 32.4516 9.59309L31.4851 8.14084L30.5186 9.59054C30.3657 9.82181 30.1071 9.9611 29.83 9.96146H28.1749V10.789C28.1749 11.0085 28.0877 11.2191 27.9325 11.3742C27.7774 11.5294 27.5668 11.6166 27.3473 11.6166H25.6922V13.2717C25.6922 13.4912 25.605 13.7017 25.4498 13.8569C25.2947 14.0121 25.0841 14.0993 24.8646 14.0993H21.5544C21.0974 14.0993 20.7268 13.7287 20.7268 13.2717V11.6166H19.0717C18.6147 11.6166 18.2442 11.246 18.2442 10.789V9.96146L16.5892 9.96133Z" fill="white"></path><path d="M12.7186 8.30675L14.1653 4.68876H14.165C14.2902 4.37399 14.595 4.16747 14.9338 4.16747C15.2726 4.16747 15.5774 4.37399 15.7026 4.68876L17.149 8.30675H18.244V7.47919C18.244 7.02219 18.6146 6.65163 19.0716 6.65163H20.7267V4.99651C20.7267 4.53951 21.0973 4.16895 21.5543 4.16895H24.8645C25.0839 4.16895 25.2945 4.25614 25.4497 4.41131C25.6049 4.56648 25.6921 4.77706 25.6921 4.99651V6.65163H27.3472C27.5666 6.65163 27.7772 6.73882 27.9324 6.89399C28.0875 7.04916 28.1747 7.25974 28.1747 7.47919V8.30675H29.3872L30.7941 6.19246C30.9563 5.97522 31.2116 5.8474 31.4824 5.8474C31.7535 5.8474 32.0088 5.97523 32.171 6.19246L33.5827 8.30675H34.6585C34.7486 7.84495 34.7941 7.37612 34.7952 6.90586C34.8129 5.09554 34.1346 3.34773 32.9011 2.02326C31.7207 0.760827 30.073 0.0404241 28.3451 0.03125C26.6238 0.0379 24.9823 0.759427 23.8134 2.02326C23.4809 2.35391 22.9438 2.35391 22.6109 2.02326C21.4393 0.757138 19.7927 0.0378704 18.0678 0.0378704C16.3429 0.0378704 14.6963 0.757186 13.5244 2.02326C11.9642 3.7146 11.3088 6.05097 11.7617 8.30685L12.7186 8.30675Z" fill="white"></path><path d="M22.3821 5.82434V7.47946C22.3821 7.69891 22.2949 7.9095 22.1397 8.06466C21.9846 8.21983 21.774 8.30702 21.5545 8.30702H19.8994V9.96214H21.5545C21.774 9.96214 21.9846 10.0493 22.1397 10.2045C22.2949 10.3597 22.3821 10.5702 22.3821 10.7897V12.4448H24.0372V10.7897C24.0372 10.3327 24.4078 9.96214 24.8648 9.96214H26.5199V8.30702H24.8648C24.4078 8.30702 24.0372 7.93646 24.0372 7.47946V5.82434H22.3821Z" fill="white"></path></svg>
+                </div>
+          </div>
+                        <div className="box-body">
+                            <h3 className="elementskit-info-box-title">
+                    Follow Up Check                </h3>
+                        		  	<p>Ensure your health progress with our comprehensive follow-up examinations, personalized care.</p>
+                                </div>
+        
+        
+                </div>
+        </div>				</div>
+				</div>
+				<div className="elementor-element elementor-element-2f3c42f elementor-absolute at-heading-animation at-animation-heading-none elementor-widget elementor-widget-heading" data-id="2f3c42f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div className="elementor-widget-container">
+					<h2 className="elementor-heading-title elementor-size-default">04</h2>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				</div>
+  );
+}
