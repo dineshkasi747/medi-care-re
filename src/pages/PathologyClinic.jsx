@@ -2,7 +2,8 @@ import React from 'react';
 
 export default function PathologyClinic() {
   return (
-    			<div data-elementor-type="wp-page" data-elementor-id="6294" className="elementor elementor-6294">
+    <>
+      			<div data-elementor-type="wp-page" data-elementor-id="6294" className="elementor elementor-6294">
 				<div className="elementor-element elementor-element-623a1bc e-flex e-con-boxed e-con e-parent" data-id="623a1bc" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 					<div className="e-con-inner">
 		<div className="elementor-element elementor-element-89f35ff e-flex e-con-boxed e-con e-child" data-id="89f35ff" data-element_type="container" data-e-type="container">
@@ -571,5 +572,6 @@ export default function PathologyClinic() {
 					</div>
 				</div>
 				</div>
+    </>
   );
 }

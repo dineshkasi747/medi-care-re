@@ -2,7 +2,8 @@ import React from 'react';
 
 export default function Services() {
   return (
-    			<div data-elementor-type="wp-page" data-elementor-id="624" className="elementor elementor-624">
+    <>
+      			<div data-elementor-type="wp-page" data-elementor-id="624" className="elementor elementor-624">
 				<div className="elementor-element elementor-element-b050927 e-flex e-con-boxed e-con e-parent" data-id="b050927" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 					<div className="e-con-inner">
 		<div className="elementor-element elementor-element-609f389 e-flex e-con-boxed e-con e-child" data-id="609f389" data-element_type="container" data-e-type="container">
@@ -870,5 +871,6 @@ export default function Services() {
 					</div>
 				</div>
 				</div>
+    </>
   );
 }

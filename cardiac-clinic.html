@@ -998,5 +998,43 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 </script>
 <script src="https://demo.awaikenthemes.com/assets/js/theme-panel.js"></script>
 
+
+<!-- Safe fallback script to ensure the page loads and animates if scripts are blocked/delayed -->
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function() {
+      // 1. Safe Preloader fade-out fallback
+      var loader = document.querySelector('.preloader');
+      if (loader && window.getComputedStyle(loader).display !== 'none') {
+        loader.style.transition = 'opacity 0.5s ease-out';
+        loader.style.opacity = '0';
+        setTimeout(function() {
+          loader.style.display = 'none';
+        }, 500);
+      }
+      
+      // 2. Safe Elementor-invisible revealing fallback
+      var invisibles = document.querySelectorAll('.elementor-invisible');
+      invisibles.forEach(function(el) {
+        el.classList.remove('elementor-invisible');
+        try {
+          var settingsStr = el.getAttribute('data-settings');
+          if (settingsStr) {
+            var settings = JSON.parse(settingsStr);
+            var anim = settings._animation || settings.animation;
+            if (anim) {
+              el.classList.add('animated', anim);
+              var delay = settings._animation_delay || settings.animation_delay;
+              if (delay) {
+                el.style.animationDelay = delay + 'ms';
+              }
+            }
+          }
+        } catch (e) {}
+      });
+    }, 1500);
+  });
+</script>
+
 </body>
 </html>

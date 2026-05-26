@@ -65,8 +65,8 @@ const PAGES = [
   {
     fileName: 'book-appointement.html',
     componentName: 'BookAppointment',
-    startLine: 219,
-    endLine: 1336
+    startLine: 217,
+    endLine: 1334
   }
 ];
 
@@ -260,7 +260,9 @@ PAGES.forEach(page => {
 
 export default function ${page.componentName}() {
   return (
-    ${html}
+    <>
+      ${html}
+    </>
   );
 }
 `;
