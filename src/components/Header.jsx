@@ -59,9 +59,16 @@ export default function Header() {
                     <div className="elementor-widget-container">
                       <div className="ata-site-logo">
                         <Link className="elementor-clickable" to="/" onClick={closeMobileMenu}>
-                          <div className="ata-site-logo-set">
-                            <div className="ata-site-logo-container">
-                              <img className="ata-site-logo-img" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 220 48'><circle cx='24' cy='24' r='20' fill='%231F3F37' /><text x='24' y='31' font-family='Figtree, sans-serif' font-weight='900' font-size='20' fill='%23ffffff' text-anchor='middle'>R</text><text x='56' y='31' font-family='Figtree, sans-serif' font-weight='800' font-size='19' fill='%231F3F37'>Rapha</text><text x='118' y='31' font-family='Figtree, sans-serif' font-weight='800' font-size='19' fill='%23F7A582'>Hospital</text></svg>" alt="Rapha Hospital Logo" />
+                          <div className="ata-site-logo-set" style={{ display: 'flex', alignItems: 'center' }}>
+                            <div className="ata-site-logo-container" style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+                              <img className="ata-site-logo-img" src="/clinic-logo.png" alt="Rapha Hospital Logo" style={{ width: '48px', height: '48px', objectFit: 'contain' }} />
+                              <span style={{
+                                fontFamily: 'Figtree, sans-serif',
+                                fontWeight: '800',
+                                fontSize: '24px',
+                                color: '#1F3F37',
+                                letterSpacing: '-0.5px'
+                              }}>Rapha <span style={{ color: '#F7A582' }}>Hospital</span></span>
                             </div>
                           </div>
                         </Link>
