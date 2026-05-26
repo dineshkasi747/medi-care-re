@@ -790,7 +790,7 @@ export default function Services() {
 		<div className="elementor-element elementor-element-222780f e-con-full e-flex elementor-invisible e-con e-child" data-id="222780f" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
 				<div className="elementor-element elementor-element-2e6f5a5 elementor-widget elementor-widget-text-editor" data-id="2e6f5a5" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
 				<div className="elementor-widget-container">
-									<p>At our medipro , we pride ourselves on fostering a culture of care, where every individual’s well-being is our utmost priority. Our commitment to excellence in healthcare is grounded.</p>								</div>
+									<p>At our Rapha Hospitals, we pride ourselves on fostering a culture of care, where every individual’s well-being is our utmost priority. Our commitment to excellence in healthcare is grounded.</p>								</div>
 				</div>
 				</div>
 					</div>
@@ -845,7 +845,7 @@ export default function Services() {
 				</div>
 				<div className="elementor-element elementor-element-09eb9e4 at-heading-animation at-animation-heading-style-3 elementor-widget elementor-widget-heading" data-id="09eb9e4" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 				<div className="elementor-widget-container">
-					<h2 className="elementor-heading-title elementor-size-default">Download MediPro App & Get 100$ Healthcase.</h2>				</div>
+					<h2 className="elementor-heading-title elementor-size-default">Download Rapha Hospitals App & Get 100$ Healthcare.</h2>				</div>
 				</div>
 				<div className="elementor-element elementor-element-51f3ae8 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="51f3ae8" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
 				<div className="elementor-widget-container">

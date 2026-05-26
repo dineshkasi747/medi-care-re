@@ -31,9 +31,9 @@ export default function Footer() {
   ];
 
   const contactDetails = [
-    { iconClass: 'fas fa-map-marker-alt', text: 'Jl. Raya Kuta No.70, Kuta' },
-    { iconClass: 'fas fa-envelope-open-text', text: 'healthcare@gmail.com' },
-    { iconClass: 'fas fa-phone-alt', text: '+01 547 547 5478' },
+    { iconClass: 'fas fa-map-marker-alt', text: 'Visakhapatnam, Andhra Pradesh, India' },
+    { iconClass: 'fas fa-envelope-open-text', text: 'raphahospitals@gmail.com' },
+    { iconClass: 'fas fa-phone-alt', text: '0891-2577110 / +91 88868 60530' },
     { iconClass: 'fas fa-clock', text: '8 AM - 5 PM , Monday - Saturday' }
   ];
 
@@ -50,7 +50,7 @@ export default function Footer() {
                   <div className="elementor-element elementor-element-d52ca1d at-image-animation at-animation-image-none elementor-widget elementor-widget-image" data-id="d52ca1d" data-element_type="widget" data-e-type="widget">
                     <div className="elementor-widget-container">
                       <Link to="/">
-                        <img width="165" height="64" src="https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/2024/05/logo.svg" className="attachment-full size-full" alt="Medicare Brand Logo" />
+                        <img width="165" height="64" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 220 48'><circle cx='24' cy='24' r='20' fill='%23F7A582' /><text x='24' y='31' font-family='Figtree, sans-serif' font-weight='900' font-size='20' fill='%231F3F37' text-anchor='middle'>R</text><text x='56' y='31' font-family='Figtree, sans-serif' font-weight='800' font-size='19' fill='%23ffffff'>Rapha</text><text x='118' y='31' font-family='Figtree, sans-serif' font-weight='800' font-size='19' fill='%23F7A582'>Hospital</text></svg>" className="attachment-full size-full" alt="Rapha Brand Logo" />
                       </Link>
                     </div>
                   </div>
@@ -194,7 +194,7 @@ export default function Footer() {
               <div className="e-con-inner">
                 <div className="elementor-element elementor-element-f128ba3 footer-copyright-text elementor-widget elementor-widget-text-editor" data-id="f128ba3" data-element_type="widget" data-e-type="widget">
                   <div className="elementor-widget-container">
-                    <p>Copyright 2026 ©<strong> MediPro </strong>All Right Reserved.</p>
+                    <p>Copyright 2026 ©<strong> Rapha Hospitals </strong>All Right Reserved.</p>
                   </div>
                 </div>
               </div>

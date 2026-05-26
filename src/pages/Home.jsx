@@ -9,13 +9,13 @@ export default function Home() {
 				<div className="elementor-element elementor-element-0efb87c e-con-full e-flex e-con e-child" data-id="0efb87c" data-element_type="container" data-e-type="container">
 					<div className="elementor-element elementor-element-c297d79 at-heading-animation at-animation-heading-none elementor-invisible elementor-widget elementor-widget-heading" data-id="c297d79" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 						<div className="elementor-widget-container">
-							<h3 className="elementor-heading-title elementor-size-default">we tack care of your health</h3>
+							<h3 className="elementor-heading-title elementor-size-default">... We Care, He Cures</h3>
 						</div>
 					</div>
 					<div className="elementor-element elementor-element-f2d32fb at-heading-animation at-animation-heading-style-3 elementor-widget elementor-widget-heading" data-id="f2d32fb" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 						<div className="elementor-widget-container">
-							<h1 className="elementor-heading-title elementor-size-default">We Are Providing Best &
-								Affordable Health Care.</h1>
+							<h1 className="elementor-heading-title elementor-size-default">Providing Best &
+								Affordable Health Care at Rapha Hospitals.</h1>
 						</div>
 					</div>
 					<div className="elementor-element elementor-element-7f12ca6 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="7f12ca6" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
@@ -56,18 +56,11 @@ export default function Home() {
 						</div>
 					</div>
 				</div>
-				<div className="elementor-element elementor-element-bf6fd7a e-con-full e-flex e-con e-child" data-id="bf6fd7a" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-					<div className="elementor-element elementor-element-fe43632 e-con-full e-flex e-con e-child" data-id="fe43632" data-element_type="container" data-e-type="container">
+				<div className="elementor-element elementor-element-bf6fd7a e-con-full e-flex e-con e-child" data-id="bf6fd7a" data-element_type="container" data-e-type="container" style={{ justifyContent: 'center', alignItems: 'center' }}>
+					<div className="elementor-element elementor-element-fe43632 e-con-full e-flex e-con e-child" data-id="fe43632" data-element_type="container" data-e-type="container" style={{ width: '100%', maxWidth: '380px' }}>
 						<div className="elementor-element elementor-element-2c0b547 image-anime at-image-animation at-animation-image-style-1 elementor-widget elementor-widget-image" data-id="2c0b547" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
-							<div className="elementor-widget-container">
-								<img fetchpriority="high" decoding="async" width="250" height="375" src="https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/2024/05/hero-img-1.jpg" className="attachment-large size-large wp-image-94" alt="" />
-							</div>
-						</div>
-					</div>
-					<div className="elementor-element elementor-element-c8d0ccf e-con-full e-flex e-con e-child" data-id="c8d0ccf" data-element_type="container" data-e-type="container">
-						<div className="elementor-element elementor-element-328920b image-anime at-image-animation at-animation-image-style-1 elementor-widget elementor-widget-image" data-id="328920b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
-							<div className="elementor-widget-container">
-								<img decoding="async" width="250" height="375" src="https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/2024/05/hero-img-2.jpg" className="attachment-large size-large wp-image-93" alt="" />
+							<div className="elementor-widget-container" style={{ display: 'flex', justifyContent: 'center' }}>
+								<img fetchpriority="high" decoding="async" src="/doctor-sushanth.png" className="attachment-large size-large wp-image-94" alt="Dr. G. Sushanth - Orthopaedic Surgeon" style={{ borderRadius: '999px', boxShadow: '0 20px 45px rgba(0,0,0,0.2)', border: '6px solid #ffffff', width: '280px', height: '420px', objectFit: 'cover', objectPosition: 'center 20%' }} />
 							</div>
 						</div>
 					</div>
@@ -206,7 +199,7 @@ export default function Home() {
 				<div className="elementor-element elementor-element-7400f97 e-con-full e-flex e-con e-child" data-id="7400f97" data-element_type="container" data-e-type="container">
 					<div className="elementor-element elementor-element-88cf940 at-heading-animation at-animation-heading-none elementor-invisible elementor-widget elementor-widget-heading" data-id="88cf940" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 						<div className="elementor-widget-container">
-							<h3 className="elementor-heading-title elementor-size-default">About Medicalife</h3>
+							<h3 className="elementor-heading-title elementor-size-default">About Rapha Hospitals</h3>
 						</div>
 					</div>
 					<div className="elementor-element elementor-element-ace26a6 at-heading-animation at-animation-heading-style-3 elementor-widget elementor-widget-heading" data-id="ace26a6" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">

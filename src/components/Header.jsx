@@ -61,7 +61,7 @@ export default function Header() {
                         <Link className="elementor-clickable" to="/" onClick={closeMobileMenu}>
                           <div className="ata-site-logo-set">
                             <div className="ata-site-logo-container">
-                              <img className="ata-site-logo-img" src="https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/2024/05/logo.svg" alt="Medicare Logo" />
+                              <img className="ata-site-logo-img" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 220 48'><circle cx='24' cy='24' r='20' fill='%231F3F37' /><text x='24' y='31' font-family='Figtree, sans-serif' font-weight='900' font-size='20' fill='%23ffffff' text-anchor='middle'>R</text><text x='56' y='31' font-family='Figtree, sans-serif' font-weight='800' font-size='19' fill='%231F3F37'>Rapha</text><text x='118' y='31' font-family='Figtree, sans-serif' font-weight='800' font-size='19' fill='%23F7A582'>Hospital</text></svg>" alt="Rapha Hospital Logo" />
                             </div>
                           </div>
                         </Link>
