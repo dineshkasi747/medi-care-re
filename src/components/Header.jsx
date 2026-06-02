@@ -60,15 +60,8 @@ export default function Header() {
                       <div className="ata-site-logo">
                         <Link className="elementor-clickable" to="/" onClick={closeMobileMenu}>
                           <div className="ata-site-logo-set" style={{ display: 'flex', alignItems: 'center' }}>
-                            <div className="ata-site-logo-container" style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-                              <img className="ata-site-logo-img" src="/clinic-logo.png" alt="Rapha Hospital Logo" style={{ width: '48px', height: '48px', objectFit: 'contain' }} />
-                              <span style={{
-                                fontFamily: 'Figtree, sans-serif',
-                                fontWeight: '800',
-                                fontSize: '24px',
-                                color: '#1F3F37',
-                                letterSpacing: '-0.5px'
-                              }}>Rapha <span style={{ color: '#F7A582' }}>Hospital</span></span>
+                            <div className="ata-site-logo-container" style={{ display: 'flex', alignItems: 'center', height: '80px', overflow: 'hidden' }}>
+                              <img className="ata-site-logo-img" src="/clinic-logo.png" alt="Apple Scans and Diagnostics Logo" style={{ height: '160px', width: '160px', objectFit: 'contain', margin: '-40px 0' }} />
                             </div>
                           </div>
                         </Link>

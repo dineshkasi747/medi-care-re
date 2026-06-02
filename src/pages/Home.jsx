@@ -56,11 +56,18 @@ export default function Home() {
 						</div>
 					</div>
 				</div>
-				<div className="elementor-element elementor-element-bf6fd7a e-con-full e-flex e-con e-child" data-id="bf6fd7a" data-element_type="container" data-e-type="container" style={{ justifyContent: 'center', alignItems: 'center' }}>
-					<div className="elementor-element elementor-element-fe43632 e-con-full e-flex e-con e-child" data-id="fe43632" data-element_type="container" data-e-type="container" style={{ width: '100%', maxWidth: '380px' }}>
+				<div className="elementor-element elementor-element-bf6fd7a e-con-full e-flex e-con e-child" data-id="bf6fd7a" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div className="elementor-element elementor-element-fe43632 e-con-full e-flex e-con e-child" data-id="fe43632" data-element_type="container" data-e-type="container">
 						<div className="elementor-element elementor-element-2c0b547 image-anime at-image-animation at-animation-image-style-1 elementor-widget elementor-widget-image" data-id="2c0b547" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
-							<div className="elementor-widget-container" style={{ display: 'flex', justifyContent: 'center' }}>
-								<img fetchpriority="high" decoding="async" src="/doctor-sushanth.png" className="attachment-large size-large wp-image-94" alt="Dr. G. Sushanth - Orthopaedic Surgeon" style={{ borderRadius: '999px', boxShadow: '0 20px 45px rgba(0,0,0,0.2)', border: '6px solid #ffffff', width: '280px', height: '420px', objectFit: 'cover', objectPosition: 'center 20%' }} />
+							<div className="elementor-widget-container">
+								<img fetchpriority="high" decoding="async" width="250" height="375" src="https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/2024/05/hero-img-1.jpg" className="attachment-large size-large wp-image-94" alt="" />
+							</div>
+						</div>
+					</div>
+					<div className="elementor-element elementor-element-c8d0ccf e-con-full e-flex e-con e-child" data-id="c8d0ccf" data-element_type="container" data-e-type="container">
+						<div className="elementor-element elementor-element-328920b image-anime at-image-animation at-animation-image-style-1 elementor-widget elementor-widget-image" data-id="328920b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
+							<div className="elementor-widget-container">
+								<img decoding="async" width="250" height="375" src="https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/2024/05/hero-img-2.jpg" className="attachment-large size-large wp-image-93" alt="" />
 							</div>
 						</div>
 					</div>

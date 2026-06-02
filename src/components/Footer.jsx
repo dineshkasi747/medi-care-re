@@ -32,7 +32,7 @@ export default function Footer() {
 
   const contactDetails = [
     { iconClass: 'fas fa-map-marker-alt', text: 'Visakhapatnam, Andhra Pradesh, India' },
-    { iconClass: 'fas fa-envelope-open-text', text: 'raphahospitals@gmail.com' },
+    { iconClass: 'fas fa-envelope-open-text', text: 'applescans@gmail.com' },
     { iconClass: 'fas fa-phone-alt', text: '0891-2577110 / +91 88868 60530' },
     { iconClass: 'fas fa-clock', text: '8 AM - 5 PM , Monday - Saturday' }
   ];
@@ -48,11 +48,9 @@ export default function Footer() {
                 {/* Brand & Description & Socials */}
                 <div className="elementor-element elementor-element-9baf448 e-con-full e-flex e-con e-child" data-id="9baf448" data-element_type="container" data-e-type="container">
                   <div className="elementor-element elementor-element-d52ca1d at-image-animation at-animation-image-none elementor-widget elementor-widget-image" data-id="d52ca1d" data-element_type="widget" data-e-type="widget">
-                    <div className="elementor-widget-container">
-                      <Link to="/">
-                        <img width="165" height="64" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 220 48'><circle cx='24' cy='24' r='20' fill='%23F7A582' /><text x='24' y='31' font-family='Figtree, sans-serif' font-weight='900' font-size='20' fill='%231F3F37' text-anchor='middle'>R</text><text x='56' y='31' font-family='Figtree, sans-serif' font-weight='800' font-size='19' fill='%23ffffff'>Rapha</text><text x='118' y='31' font-family='Figtree, sans-serif' font-weight='800' font-size='19' fill='%23F7A582'>Hospital</text></svg>" className="attachment-full size-full" alt="Rapha Brand Logo" />
+                       <Link to="/" style={{ display: 'inline-block', height: '60px', overflow: 'hidden', borderRadius: '8px', background: '#ffffff', padding: '4px' }}>
+                        <img className="ata-site-logo-img" src="/clinic-logo.png" alt="Apple Scans and Diagnostics Logo" style={{ height: '110px', width: '110px', objectFit: 'contain', margin: '-25px 0' }} />
                       </Link>
-                    </div>
                   </div>
                   <div className="elementor-element elementor-element-b539dfe elementor-widget elementor-widget-text-editor" data-id="b539dfe" data-element_type="widget" data-e-type="widget">
                     <div className="elementor-widget-container">
@@ -194,7 +192,7 @@ export default function Footer() {
               <div className="e-con-inner">
                 <div className="elementor-element elementor-element-f128ba3 footer-copyright-text elementor-widget elementor-widget-text-editor" data-id="f128ba3" data-element_type="widget" data-e-type="widget">
                   <div className="elementor-widget-container">
-                    <p>Copyright 2026 ©<strong> Rapha Hospitals </strong>All Right Reserved.</p>
+                    <p>Copyright 2026 ©<strong> Apple Scans & Diagnostics </strong>All Right Reserved.</p>
                   </div>
                 </div>
               </div>
